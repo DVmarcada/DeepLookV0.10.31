@@ -1,0 +1,141 @@
+# DeepLook Privacy Policy
+
+**Effective Date:** November 7, 2026  
+**Last Updated:** November 7, 2026
+
+## 1. Introduction
+
+This Privacy Policy explains how DeepLook ("the Application") accesses, uses, and stores information when you use the desktop application.
+
+DeepLook is designed to help content creators manage and analyze their online content through integrations with third-party platforms.
+
+We aim to limit information collection to what is necessary for the Application's functionality.
+
+## 2. Information We Access
+
+Depending on the integrations you configure and authorize, DeepLook may access the following categories of information:
+
+**YouTube and Google**
+- YouTube channel information.
+- Video information and statistics.
+- YouTube Analytics data.
+- Google Calendar information when calendar integration is enabled.
+
+**Twitch**
+- Public channel information.
+- Public video and broadcast information.
+- Video statistics made available through the Twitch API.
+
+**Kick**
+- Public channel information and publicly available platform data supported by the integration.
+
+**Instagram**
+- Authorized Instagram account information.
+- Media information and statistics made available through the Instagram Graph API.
+
+**TikTok**
+- Basic profile information.
+- Video information available through the TikTok Display API.
+- Other information only if supported by the permissions granted and the integration.
+
+The information available to DeepLook depends on the permissions you authorize and the functionality provided by each third-party platform.
+
+## 3. API Credentials and Authentication
+
+Some integrations require API keys, client secrets, or access tokens.
+
+DeepLook stores supported credentials locally on your computer. Sensitive credentials are encrypted using the operating system's secure storage functionality provided through Electron.
+
+Third-party account authorization may also result in authentication tokens being stored locally.
+
+You should protect your computer and operating system account to prevent unauthorized access to locally stored information.
+
+## 4. How Information Is Used
+
+Information accessed by DeepLook is used to provide application functionality, including:
+
+- Displaying connected account information.
+- Retrieving content and video information.
+- Displaying analytics and performance metrics.
+- Organizing content across supported platforms.
+- Supporting calendar-related functionality.
+- Providing AI-assisted features when configured by the user.
+
+DeepLook does not use connected account information for advertising.
+
+## 5. AI Services
+
+DeepLook may provide optional AI-powered functionality through Anthropic.
+
+If you configure and use these features, information necessary to fulfill your request may be transmitted to Anthropic for processing.
+
+Your use of these features is also subject to Anthropic's applicable privacy policies and terms.
+
+AI features are optional and require the user to configure the relevant credentials.
+
+## 6. Local Storage
+
+DeepLook stores application settings, cached information, and integration data locally on your computer.
+
+Sensitive credentials are encrypted using the operating system's secure storage functionality where supported.
+
+DeepLook is a desktop application and does not require a DeepLook-hosted user account to use its core functionality.
+
+Uninstalling the Application may not automatically delete all locally stored application data. You may need to remove the application's local data separately if you want to delete it.
+
+## 7. Information Sharing
+
+DeepLook does not sell personal information.
+
+Information may be transmitted to third-party services when necessary to provide functionality requested by the user, including:
+
+- Retrieving information from connected social media platforms.
+- Authorizing third-party accounts.
+- Processing AI requests through configured AI providers.
+
+These services process information according to their own terms and privacy policies.
+
+## 8. Data Retention and Deletion
+
+Information stored locally remains on your computer until it is deleted by you or removed through applicable application functionality.
+
+You can stop future access by disconnecting integrations, revoking authorization through the relevant third-party platform, or removing the associated credentials.
+
+You may also delete locally stored application data. Doing so may remove saved settings, credentials, cached information, and other application data.
+
+## 9. Security
+
+DeepLook uses local storage and operating-system-supported encryption for sensitive credentials.
+
+However, no method of electronic storage or transmission is completely secure. We cannot guarantee absolute security of information stored on your device or transmitted to third-party services.
+
+You are responsible for maintaining the security of your computer and connected accounts.
+
+## 10. Children's Privacy
+
+DeepLook is not intended for children under the age of 13. We do not knowingly design the Application to collect personal information from children under 13.
+
+## 11. Third-Party Privacy Policies
+
+When you connect third-party services, their own privacy policies apply to information processed by those services.
+
+You can review their policies through their official websites:
+
+- Google: https://policies.google.com/privacy
+- YouTube: https://www.youtube.com/howyoutubeworks/user-settings/privacy/
+- Twitch: https://www.twitch.tv/p/en/legal/privacy-notice/
+- TikTok: https://www.tiktok.com/legal/page/us/privacy-policy/en
+- Instagram: https://privacycenter.instagram.com/policy/
+- Anthropic: https://www.anthropic.com/legal/privacy
+
+## 12. Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically to reflect changes in the Application, its integrations, or applicable requirements.
+
+Updated versions will be published at the location where this Privacy Policy is hosted.
+
+## 13. Contact
+
+For questions or concerns regarding this Privacy Policy, contact:
+
+**Email:** dvmarcada@gmail.com
